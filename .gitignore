@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Logs
+siding_takeoff.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other temporary files
+*.log
